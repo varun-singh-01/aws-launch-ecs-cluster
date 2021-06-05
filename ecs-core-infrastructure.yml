@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: VPC and subnets as base for an ECS cluster. This stack will create them
+Description: "VPC and subnets as base for an ECS cluster. This stack will create them."
 Parameters:
   EnvironmentName:
     Type: String
